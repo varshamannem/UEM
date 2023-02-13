@@ -1,0 +1,15 @@
+.navbar{
+  background-color: #0e2433;
+}
+#events{
+  padding-bottom: 30px;
+}
+#about{
+  padding: 40px;
+  background-color: gray;
+}
+.image{
+  overflow: auto;
+  border-radius: 50%;
+  float:right;
+}
